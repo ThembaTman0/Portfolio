@@ -20,7 +20,6 @@ module.exports = {
     },
   },
   variants: {
-    scrollbar:['rounded'],
     extend: {},
   },
 
