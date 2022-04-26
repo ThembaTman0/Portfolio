@@ -6,9 +6,9 @@
   <a href="https://thembatman0.github.io/Portfolio/" target="_blank">thembatman0.github.io</a> built with <a href="https://tailwindcss.com/" target="_blank">tailwindcss</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
 </p>
 
-<!-- <div align="center">
-  <img alt="Demo" src="https://github.com/chandrikadeb7/chandrikadeb7.github.io/blob/code/src/images/demo.png" />
-</div> -->
+<div align="center">
+  <img alt="Demo" src="imgs/Web Display.png" />
+</div>
 
 
 ## Installation & Requirements
