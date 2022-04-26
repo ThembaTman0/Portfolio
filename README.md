@@ -11,46 +11,19 @@
 </div>
 
 
-## Installation & Set Up
-
-* Make sure you have installed [Node JS](https://nodejs.org/en/download/)
-1. Install the Gatsby CLI
+## Installation & Requiredments
+* Install [VScode](https://code.visualstudio.com/)
+* Installed [Node JS](https://nodejs.org/en/download/)
+* Install the tailwindcss
 
    ```sh
    npm install -D tailwindcss
    ```
-
-2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
-
-   ```sh
-   nvm install
-   ```
-
-3. Install dependencies
-
-   ```sh
-   yarn
-   ```
-
-4. Start the development server
-
-   ```sh
-   npm start
-   ```
+* Install [Live Searver](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 ## 🚀 Building and Running for Production
 
-1. Generate a full static production build
-
-   ```sh
-   npm run build
-   ```
-
-1. Preview the site as it will appear once deployed
-
-   ```sh
-   npm run serve
-   ```
+* Open a project and click to Go Live from the status bar 
 
 ## 🎨 Color Reference
 
