@@ -11,7 +11,7 @@
 </div>
 
 
-## Installation & Requiredments
+## Installation & Requirements
 * Install [VScode](https://code.visualstudio.com/)
 * Installed [Node JS](https://nodejs.org/en/download/)
 * Install the tailwindcss
