@@ -38,7 +38,7 @@
 | White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
 | Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` | -->
 
-<link href='https://css.gg/git-fork.css' rel='stylesheet'>
+@import url('https://css.gg/git-fork.css');
 <i class="gg-git-fork"></i>
 Cloning / Forking
 Please review the license and remove all of my personal information (resume, blog posts, images, etc.).
