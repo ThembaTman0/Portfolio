@@ -42,4 +42,4 @@
 
 Please review the [license](LICENSE.txt) and remove all of my personal information (resume, blog posts, images, etc.).
 * Please do not copy it directly.
-* Crediting the author is appreciated.
+* Please give me proper credit by linking back to [thembatman0.github.io](https://thembatman0.github.io/Portfolio/) Thanks!
