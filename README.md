@@ -13,10 +13,11 @@
 
 ## Installation & Set Up
 
+* Make sure you have installed [Node JS](https://nodejs.org/en/download/)
 1. Install the Gatsby CLI
 
    ```sh
-   npm install -g gatsby-cli
+   npm install -D tailwindcss
    ```
 
 2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
