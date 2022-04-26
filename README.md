@@ -3,22 +3,15 @@
   Portfolio Website Version 2
 </h1>
 <p align="center">
-  <a href="https://thembatman0.github.io/Portfolio/" target="_blank">chandrikadeb7.github.io</a> built with <a href="https://tailwindcss.com/" target="_blank">tailwindcss</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
-</p>
-<p align="center">
-  Previous iterations:
-  <a href="https://github.com/chandrikadeb7/chandrikadeb7.github.io-v1" target="_blank">Version 1</a>
+  <a href="https://thembatman0.github.io/Portfolio/" target="_blank">thembatman0.github.io</a> built with <a href="https://tailwindcss.com/" target="_blank">tailwindcss</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
 </p>
 
 <div align="center">
   <img alt="Demo" src="https://github.com/chandrikadeb7/chandrikadeb7.github.io/blob/code/src/images/demo.png" />
 </div>
 
-### TL;DR
 
-Yes, you can fork this repo. Please give proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
-
-## 🛠 Installation & Set Up
+## Installation & Set Up
 
 1. Install the Gatsby CLI
 
