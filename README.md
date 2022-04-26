@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Portfolio Website Version 2
+  Portfolio Website
 </h1>
 <p align="center">
   <a href="https://thembatman0.github.io/Portfolio/" target="_blank">thembatman0.github.io</a> built with <a href="https://tailwindcss.com/" target="_blank">tailwindcss</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
